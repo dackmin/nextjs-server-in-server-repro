@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-server-in-server-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@4.5.3",
+  "dependencies": {
+    "@junipero/react": "^3.10.3",
+    "next": "15.1.2",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.0.2",
+    "typescript": "5.7.2"
+  }
+}
